@@ -1,7 +1,9 @@
-FlapPyBird
+FlapPyToucan
 ===============
 
-A Flappy Bird Clone made using [python-pygame][pygame]
+Read the Toucan Paper! [A Revolutionary Approach to Quantum Energy-Efficient Flappy Toucan in Mac Environments (QuEEF-TiME)](https://github.com/GitShanks14/QuantumToucan/raw/master/Toucan%20Final.pdf).
+
+A Flappy Bird Clone made using a Toucan and [python-pygame][pygame].
 
 Setup (as tested on MacOS)
 ---------------------------
@@ -33,13 +35,6 @@ Setup (as tested on MacOS)
 
 (For x64 windows, get exe [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame))
 
-Notable forks
--------------
-- [FlapPyBlink Blink to control the bird](https://github.com/sero583/FlappyBlink)
-- [FlappyBird Fury Mode](https://github.com/Cc618/FlapPyBird)
-- [FlappyBird Model Predictive Control](https://github.com/philzook58/FlapPyBird-MPC)
-- [FlappyBird OpenFrameworks Port](https://github.com/TheLogicMaster/ofFlappyBird)
-- [FlappyBird On Quantum Computing](https://github.com/WingCode/QuFlapPyBird)
 
 Made something awesome from FlapPyBird? Add it to the list :)
 
