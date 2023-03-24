@@ -16,9 +16,9 @@ IMAGES, SOUNDS, HITMASKS = {}, {}, {}
 PLAYERS_LIST = (
     # red bird
     (
-        'assets/sprites/redbird-upflap.png',
-        'assets/sprites/redbird-midflap.png',
-        'assets/sprites/redbird-downflap.png',
+        'assets/sprites/ToucanV2.png',
+        'assets/sprites/ToucanV2.png',
+        'assets/sprites/ToucanV2.png',
     ),
     # blue bird
     (
